@@ -24,7 +24,7 @@ Please note! This is a minimal 8-bit microcontroller, and it definitely does not
 * Native USB
 * Built in RGB NeoPixel LED
 * 10 GPIO pins:
-	* A2 pin is the same as MOSI pin (it's the hardware SPI port and one of only 4 ADC pns)https://github.com/DeqingSun/ch55xduino4 x 8-bit analog inputs on A0, A1, A2, and A3
+	* A2 pin is the same as MOSI pin (it's the hardware SPI port and one of only 4 ADC pins)https://github.com/DeqingSun/ch55xduino 4 x 8-bit analog inputs on A0, A1, A2, and A3
 	* 3 x PWM outputs
 	* I2C port with STEMMA QT plug-n-play connector
 	* Hardware UART
